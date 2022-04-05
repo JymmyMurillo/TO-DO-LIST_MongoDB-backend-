@@ -6,6 +6,6 @@
 Backend creado con express.js y mongoose, conectado a una base de datos en Mongo Atlas.
 
 <p align="center"> 
-  <img src="./public/images/Atlas.PNG" width=80% heigth=auto>
+  <img src="./public/images/Atlas.PNG" width=100% heigth=auto>
 </p>
 
